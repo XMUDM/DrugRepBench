@@ -1,0 +1,2 @@
+unmerged_disease_48082	contraindication - contraindication	merged_19250_drug
+unmerged_disease_48529	contraindication - contraindication	merged_19273_drug

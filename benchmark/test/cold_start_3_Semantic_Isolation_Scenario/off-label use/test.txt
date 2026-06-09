@@ -1,0 +1,3 @@
+unmerged_disease_52611	off-label use - off-label use	merged_19237_drug
+unmerged_disease_52557	off-label use - off-label use	merged_20031_drug
+unmerged_disease_52557	off-label use - off-label use	merged_20620_drug

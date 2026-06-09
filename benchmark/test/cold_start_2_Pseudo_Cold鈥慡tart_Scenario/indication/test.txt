@@ -1,0 +1,11 @@
+unmerged_disease_48090	indication - indication	merged_19226_drug
+unmerged_disease_48623	indication - indication	merged_19412_drug
+unmerged_disease_41345	indication - indication	merged_19419_drug
+unmerged_disease_48623	indication - indication	merged_19731_drug
+unmerged_disease_48623	indication - indication	merged_19822_drug
+unmerged_disease_48877	indication - indication	merged_20135_drug
+unmerged_disease_48302	indication - indication	merged_20380_drug
+unmerged_disease_48587	indication - indication	merged_20588_drug
+unmerged_disease_48587	indication - indication	merged_20593_drug
+unmerged_disease_41345	indication - indication	unmerged_drug_15999
+unmerged_disease_46917	indication - indication	unmerged_drug_16005

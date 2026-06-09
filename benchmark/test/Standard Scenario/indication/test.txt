@@ -1,0 +1,691 @@
+unmerged_disease_52500	indication - indication	merged_19221_drug
+unmerged_disease_52355	indication - indication	merged_19221_drug
+unmerged_disease_58478	treats	merged_19225_drug
+unmerged_disease_52486	indication - indication	merged_19226_drug
+unmerged_disease_51285	indication - indication	merged_19226_drug
+unmerged_disease_45519	indication - indication	merged_19226_drug
+unmerged_disease_52355	indication - indication	merged_19226_drug
+unmerged_disease_52509	indication - indication	merged_19226_drug
+unmerged_disease_41321	indication - indication	merged_19226_drug
+unmerged_disease_42869	indication - indication	merged_19226_drug
+unmerged_disease_58512	treats	merged_19226_drug
+unmerged_disease_58469	treats	merged_19226_drug
+unmerged_disease_58432	treats	merged_19226_drug
+unmerged_disease_41461	indication - indication	merged_19227_drug
+unmerged_disease_51327	indication - indication	merged_19228_drug
+unmerged_disease_45519	indication - indication	merged_19230_drug
+unmerged_disease_52129	indication - indication	merged_19230_drug
+unmerged_disease_44079	indication - indication	merged_19230_drug
+unmerged_disease_41447	indication - indication	merged_19230_drug
+unmerged_disease_48179	indication - indication	merged_19230_drug
+unmerged_disease_41321	indication - indication	merged_19230_drug
+unmerged_disease_45323	indication - indication	merged_19230_drug
+unmerged_disease_41394	indication - indication	merged_19230_drug
+unmerged_disease_52486	indication - indication	merged_19231_drug
+unmerged_disease_48051	indication - indication	merged_19231_drug
+unmerged_disease_52500	indication - indication	merged_19231_drug
+unmerged_disease_50387	indication - indication	merged_19231_drug
+unmerged_disease_40537	indication - indication	merged_19231_drug
+unmerged_disease_47309	indication - indication	merged_19231_drug
+unmerged_disease_52509	indication - indication	merged_19231_drug
+unmerged_disease_44781	indication - indication	merged_19231_drug
+unmerged_disease_47519	indication - indication	merged_19231_drug
+unmerged_disease_47160	indication - indication	merged_19231_drug
+unmerged_disease_52852	indication - indication	merged_19231_drug
+unmerged_disease_58432	treats	merged_19231_drug
+unmerged_disease_48130	indication - indication	merged_19235_drug
+unmerged_disease_52488	indication - indication	merged_19235_drug
+unmerged_disease_45519	indication - indication	merged_19235_drug
+unmerged_disease_48051	indication - indication	merged_19235_drug
+unmerged_disease_50434	indication - indication	merged_19235_drug
+unmerged_disease_41447	indication - indication	merged_19235_drug
+unmerged_disease_51808	indication - indication	merged_19235_drug
+unmerged_disease_52508	indication - indication	merged_19235_drug
+unmerged_disease_48712	indication - indication	merged_19235_drug
+unmerged_disease_41321	indication - indication	merged_19235_drug
+unmerged_disease_43050	indication - indication	merged_19235_drug
+unmerged_disease_58469	treats	merged_19235_drug
+unmerged_disease_40864	indication - indication	merged_19237_drug
+unmerged_disease_52129	indication - indication	merged_19237_drug
+unmerged_disease_41025	indication - indication	merged_19237_drug
+unmerged_disease_41197	indication - indication	merged_19237_drug
+unmerged_disease_41251	indication - indication	merged_19237_drug
+unmerged_disease_47745	indication - indication	merged_19237_drug
+unmerged_disease_41264	indication - indication	merged_19237_drug
+unmerged_disease_58512	treats	merged_19237_drug
+unmerged_disease_49616	indication - indication	merged_19239_drug
+unmerged_disease_44530	indication - indication	merged_19240_drug
+unmerged_disease_58471	treats	merged_19240_drug
+unmerged_disease_58478	treats	merged_19240_drug
+unmerged_disease_48179	indication - indication	merged_19241_drug
+unmerged_disease_48179	indication - indication	merged_19243_drug
+unmerged_disease_58485	treats	merged_19248_drug
+unmerged_disease_41209	indication - indication	merged_19249_drug
+unmerged_disease_58485	treats	merged_19249_drug
+unmerged_disease_47405	indication - indication	merged_19259_drug
+unmerged_disease_47050	indication - indication	merged_19271_drug
+unmerged_disease_52482	indication - indication	merged_19272_drug
+unmerged_disease_58398	treats	merged_19274_drug
+unmerged_disease_41539	indication - indication	merged_19275_drug
+unmerged_disease_58455	treats	merged_19276_drug
+unmerged_disease_52634	indication - indication	merged_19277_drug
+unmerged_disease_58398	treats	merged_19284_drug
+unmerged_disease_52482	indication - indication	merged_19285_drug
+unmerged_disease_41461	indication - indication	merged_19286_drug
+unmerged_disease_58482	treats	merged_19287_drug
+unmerged_disease_41458	indication - indication	merged_19291_drug
+unmerged_disease_50219	indication - indication	merged_19298_drug
+unmerged_disease_49041	indication - indication	merged_19303_drug
+unmerged_disease_40671	indication - indication	merged_19304_drug
+unmerged_disease_40945	indication - indication	merged_19306_drug
+unmerged_disease_48936	indication - indication	merged_19316_drug
+unmerged_disease_46130	indication - indication	merged_19317_drug
+unmerged_disease_49487	indication - indication	merged_19317_drug
+unmerged_disease_52534	indication - indication	merged_19317_drug
+unmerged_disease_49767	indication - indication	merged_19317_drug
+unmerged_disease_49732	indication - indication	merged_19317_drug
+unmerged_disease_52536	indication - indication	merged_19317_drug
+unmerged_disease_58394	treats	merged_19317_drug
+unmerged_disease_50244	indication - indication	merged_19319_drug
+unmerged_disease_47548	indication - indication	merged_19319_drug
+unmerged_disease_46477	indication - indication	merged_19321_drug
+unmerged_disease_44737	indication - indication	merged_19321_drug
+unmerged_disease_48130	indication - indication	merged_19325_drug
+unmerged_disease_45506	indication - indication	merged_19325_drug
+unmerged_disease_49506	indication - indication	merged_19325_drug
+unmerged_disease_58512	treats	merged_19325_drug
+unmerged_disease_58469	treats	merged_19325_drug
+unmerged_disease_58466	treats	merged_19325_drug
+unmerged_disease_48936	indication - indication	merged_19326_drug
+unmerged_disease_48127	indication - indication	merged_19327_drug
+unmerged_disease_43988	indication - indication	merged_19328_drug
+unmerged_disease_48499	indication - indication	merged_19334_drug
+unmerged_disease_41319	indication - indication	merged_19335_drug
+unmerged_disease_42941	indication - indication	merged_19339_drug
+unmerged_disease_47461	indication - indication	merged_19339_drug
+unmerged_disease_47098	indication - indication	merged_19339_drug
+unmerged_disease_50433	indication - indication	merged_19343_drug
+unmerged_disease_47773	indication - indication	merged_19351_drug
+unmerged_disease_58390	treats	merged_19353_drug
+unmerged_disease_46534	indication - indication	merged_19354_drug
+unmerged_disease_52500	indication - indication	merged_19357_drug
+unmerged_disease_48206	indication - indication	merged_19360_drug
+unmerged_disease_58422	treats	merged_19360_drug
+unmerged_disease_49441	indication - indication	merged_19365_drug
+unmerged_disease_52636	indication - indication	merged_19365_drug
+unmerged_disease_58410	treats	merged_19365_drug
+unmerged_disease_44451	indication - indication	merged_19366_drug
+unmerged_disease_52495	indication - indication	merged_19366_drug
+unmerged_disease_48206	indication - indication	merged_19366_drug
+unmerged_disease_52607	indication - indication	merged_19369_drug
+unmerged_disease_48936	indication - indication	merged_19373_drug
+unmerged_disease_58410	treats	merged_19375_drug
+unmerged_disease_58398	treats	merged_19386_drug
+unmerged_disease_41321	indication - indication	merged_19393_drug
+unmerged_disease_50467	indication - indication	merged_19395_drug
+unmerged_disease_52280	indication - indication	merged_19398_drug
+unmerged_disease_48206	indication - indication	merged_19399_drug
+unmerged_disease_48130	indication - indication	merged_19400_drug
+unmerged_disease_40509	indication - indication	merged_19400_drug
+unmerged_disease_47973	indication - indication	merged_19400_drug
+unmerged_disease_48417	indication - indication	merged_19400_drug
+unmerged_disease_41381	indication - indication	merged_19402_drug
+unmerged_disease_58509	treats	merged_19404_drug
+unmerged_disease_41409	indication - indication	merged_19406_drug
+unmerged_disease_52566	indication - indication	merged_19406_drug
+unmerged_disease_45224	indication - indication	merged_19406_drug
+unmerged_disease_41368	indication - indication	merged_19406_drug
+unmerged_disease_52852	indication - indication	merged_19406_drug
+unmerged_disease_49506	indication - indication	merged_19406_drug
+unmerged_disease_48531	indication - indication	merged_19406_drug
+unmerged_disease_58443	treats	merged_19406_drug
+unmerged_disease_58395	treats	merged_19406_drug
+unmerged_disease_58413	treats	merged_19406_drug
+unmerged_disease_43988	indication - indication	merged_19409_drug
+unmerged_disease_47548	indication - indication	merged_19410_drug
+unmerged_disease_43294	indication - indication	merged_19411_drug
+unmerged_disease_46477	indication - indication	merged_19412_drug
+unmerged_disease_47326	indication - indication	merged_19412_drug
+unmerged_disease_58398	treats	merged_19413_drug
+unmerged_disease_52520	indication - indication	merged_19414_drug
+unmerged_disease_43988	indication - indication	merged_19418_drug
+unmerged_disease_41259	indication - indication	merged_19419_drug
+unmerged_disease_50695	indication - indication	merged_19428_drug
+unmerged_disease_48114	indication - indication	merged_19429_drug
+unmerged_disease_52479	indication - indication	merged_19430_drug
+unmerged_disease_58390	treats	merged_19437_drug
+unmerged_disease_50450	indication - indication	merged_19440_drug
+unmerged_disease_47842	indication - indication	merged_19449_drug
+unmerged_disease_41243	indication - indication	merged_19449_drug
+unmerged_disease_48158	indication - indication	merged_19451_drug
+unmerged_disease_43988	indication - indication	merged_19451_drug
+unmerged_disease_44530	indication - indication	merged_19451_drug
+unmerged_disease_41197	indication - indication	merged_19451_drug
+unmerged_disease_40537	indication - indication	merged_19451_drug
+unmerged_disease_47623	indication - indication	merged_19451_drug
+unmerged_disease_49422	indication - indication	merged_19451_drug
+unmerged_disease_48823	indication - indication	merged_19451_drug
+unmerged_disease_41546	indication - indication	merged_19451_drug
+unmerged_disease_52851	indication - indication	merged_19451_drug
+unmerged_disease_58432	treats	merged_19451_drug
+unmerged_disease_46534	indication - indication	merged_19454_drug
+unmerged_disease_41381	indication - indication	merged_19458_drug
+unmerged_disease_52616	indication - indication	merged_19459_drug
+unmerged_disease_48936	indication - indication	merged_19461_drug
+unmerged_disease_52508	indication - indication	merged_19467_drug
+unmerged_disease_58522	treats	merged_19467_drug
+unmerged_disease_58515	treats	merged_19481_drug
+unmerged_disease_48127	indication - indication	merged_19483_drug
+unmerged_disease_50407	indication - indication	merged_19487_drug
+unmerged_disease_52482	indication - indication	merged_19491_drug
+unmerged_disease_49697	indication - indication	merged_19499_drug
+unmerged_disease_48705	indication - indication	merged_19504_drug
+unmerged_disease_40671	indication - indication	merged_19523_drug
+unmerged_disease_58493	treats	merged_19525_drug
+unmerged_disease_58398	treats	merged_19527_drug
+unmerged_disease_48089	indication - indication	merged_19530_drug
+unmerged_disease_52495	indication - indication	merged_19533_drug
+unmerged_disease_58515	treats	merged_19534_drug
+unmerged_disease_47823	indication - indication	merged_19550_drug
+unmerged_disease_48179	indication - indication	merged_19553_drug
+unmerged_disease_40889	indication - indication	merged_19556_drug
+unmerged_disease_58422	treats	merged_19556_drug
+unmerged_disease_58421	treats	merged_19556_drug
+unmerged_disease_41461	indication - indication	merged_19559_drug
+unmerged_disease_50137	indication - indication	merged_19564_drug
+unmerged_disease_52188	indication - indication	merged_19564_drug
+unmerged_disease_52567	indication - indication	merged_19566_drug
+unmerged_disease_50407	indication - indication	merged_19582_drug
+unmerged_disease_41208	indication - indication	merged_19583_drug
+unmerged_disease_58513	treats	merged_19586_drug
+unmerged_disease_58398	treats	merged_19587_drug
+unmerged_disease_52546	indication - indication	merged_19591_drug
+unmerged_disease_50234	indication - indication	merged_19602_drug
+unmerged_disease_52567	indication - indication	merged_19608_drug
+unmerged_disease_52572	indication - indication	merged_19608_drug
+unmerged_disease_52573	indication - indication	merged_19608_drug
+unmerged_disease_50012	indication - indication	merged_19611_drug
+unmerged_disease_45535	indication - indication	merged_19615_drug
+unmerged_disease_43952	indication - indication	merged_19615_drug
+unmerged_disease_50137	indication - indication	merged_19621_drug
+unmerged_disease_52537	indication - indication	merged_19621_drug
+unmerged_disease_58466	treats	merged_19621_drug
+unmerged_disease_58433	treats	merged_19621_drug
+unmerged_disease_58408	treats	merged_19623_drug
+unmerged_disease_58481	treats	merged_19627_drug
+unmerged_disease_48849	indication - indication	merged_19630_drug
+unmerged_disease_48329	indication - indication	merged_19630_drug
+unmerged_disease_58478	treats	merged_19632_drug
+unmerged_disease_40803	indication - indication	merged_19633_drug
+unmerged_disease_51727	indication - indication	merged_19633_drug
+unmerged_disease_52355	indication - indication	merged_19636_drug
+unmerged_disease_48164	indication - indication	merged_19637_drug
+unmerged_disease_48216	indication - indication	merged_19638_drug
+unmerged_disease_48164	indication - indication	merged_19638_drug
+unmerged_disease_50918	indication - indication	merged_19641_drug
+unmerged_disease_52575	indication - indication	merged_19641_drug
+unmerged_disease_52565	indication - indication	merged_19643_drug
+unmerged_disease_52566	indication - indication	merged_19643_drug
+unmerged_disease_58408	treats	merged_19643_drug
+unmerged_disease_58443	treats	merged_19644_drug
+unmerged_disease_48785	indication - indication	merged_19645_drug
+unmerged_disease_41170	indication - indication	merged_19645_drug
+unmerged_disease_58408	treats	merged_19645_drug
+unmerged_disease_48091	indication - indication	merged_19653_drug
+unmerged_disease_43906	indication - indication	merged_19667_drug
+unmerged_disease_41381	indication - indication	merged_19681_drug
+unmerged_disease_52355	indication - indication	merged_19683_drug
+unmerged_disease_49616	indication - indication	merged_19683_drug
+unmerged_disease_48644	indication - indication	merged_19683_drug
+unmerged_disease_41409	indication - indication	merged_19684_drug
+unmerged_disease_52552	indication - indication	merged_19696_drug
+unmerged_disease_47623	indication - indication	merged_19698_drug
+unmerged_disease_41351	indication - indication	merged_19698_drug
+unmerged_disease_50137	indication - indication	merged_19698_drug
+unmerged_disease_50622	indication - indication	merged_19698_drug
+unmerged_disease_58408	treats	merged_19698_drug
+unmerged_disease_58481	treats	merged_19698_drug
+unmerged_disease_52194	indication - indication	merged_19704_drug
+unmerged_disease_52479	indication - indication	merged_19707_drug
+unmerged_disease_48823	indication - indication	merged_19711_drug
+unmerged_disease_40701	indication - indication	merged_19713_drug
+unmerged_disease_52280	indication - indication	merged_19717_drug
+unmerged_disease_43742	indication - indication	merged_19730_drug
+unmerged_disease_47827	indication - indication	merged_19732_drug
+unmerged_disease_52497	indication - indication	merged_19734_drug
+unmerged_disease_48661	indication - indication	merged_19734_drug
+unmerged_disease_48655	indication - indication	merged_19739_drug
+unmerged_disease_58398	treats	merged_19741_drug
+unmerged_disease_41338	indication - indication	merged_19743_drug
+unmerged_disease_52509	indication - indication	merged_19744_drug
+unmerged_disease_48712	indication - indication	merged_19748_drug
+unmerged_disease_41251	indication - indication	merged_19749_drug
+unmerged_disease_41409	indication - indication	merged_19749_drug
+unmerged_disease_52858	indication - indication	merged_19749_drug
+unmerged_disease_41291	indication - indication	merged_19749_drug
+unmerged_disease_50695	indication - indication	merged_19754_drug
+unmerged_disease_48697	indication - indication	merged_19754_drug
+unmerged_disease_41509	indication - indication	merged_19755_drug
+unmerged_disease_58400	treats	merged_19757_drug
+unmerged_disease_58509	treats	merged_19757_drug
+unmerged_disease_58510	treats	merged_19759_drug
+unmerged_disease_40776	indication - indication	merged_19761_drug
+unmerged_disease_47851	indication - indication	merged_19761_drug
+unmerged_disease_41050	indication - indication	merged_19765_drug
+unmerged_disease_41461	indication - indication	merged_19776_drug
+unmerged_disease_50432	indication - indication	merged_19786_drug
+unmerged_disease_46054	indication - indication	merged_19789_drug
+unmerged_disease_47670	indication - indication	merged_19791_drug
+unmerged_disease_48087	indication - indication	merged_19794_drug
+unmerged_disease_40864	indication - indication	merged_19796_drug
+unmerged_disease_40729	indication - indication	merged_19796_drug
+unmerged_disease_41197	indication - indication	merged_19796_drug
+unmerged_disease_47824	indication - indication	merged_19796_drug
+unmerged_disease_40767	indication - indication	merged_19797_drug
+unmerged_disease_43643	indication - indication	merged_19800_drug
+unmerged_disease_48152	indication - indication	merged_19800_drug
+unmerged_disease_45224	indication - indication	merged_19815_drug
+unmerged_disease_40671	indication - indication	merged_19820_drug
+unmerged_disease_50368	indication - indication	merged_19820_drug
+unmerged_disease_52556	indication - indication	merged_19820_drug
+unmerged_disease_52555	indication - indication	merged_19821_drug
+unmerged_disease_48823	indication - indication	merged_19824_drug
+unmerged_disease_49616	indication - indication	merged_19826_drug
+unmerged_disease_41025	indication - indication	merged_19836_drug
+unmerged_disease_52622	indication - indication	merged_19836_drug
+unmerged_disease_48127	indication - indication	merged_19840_drug
+unmerged_disease_49231	indication - indication	merged_19845_drug
+unmerged_disease_58474	treats	merged_19845_drug
+unmerged_disease_41381	indication - indication	merged_19846_drug
+unmerged_disease_50368	indication - indication	merged_19854_drug
+unmerged_disease_44073	indication - indication	merged_19859_drug
+unmerged_disease_48823	indication - indication	merged_19860_drug
+unmerged_disease_47526	indication - indication	merged_19862_drug
+unmerged_disease_50371	indication - indication	merged_19862_drug
+unmerged_disease_50467	indication - indication	merged_19868_drug
+unmerged_disease_52533	indication - indication	merged_19872_drug
+unmerged_disease_58478	treats	merged_19872_drug
+unmerged_disease_46066	indication - indication	merged_19876_drug
+unmerged_disease_52566	indication - indication	merged_19886_drug
+unmerged_disease_52569	indication - indication	merged_19886_drug
+unmerged_disease_50433	indication - indication	merged_19887_drug
+unmerged_disease_52546	indication - indication	merged_19892_drug
+unmerged_disease_58518	treats	merged_19897_drug
+unmerged_disease_40776	indication - indication	merged_19906_drug
+unmerged_disease_41112	indication - indication	merged_19906_drug
+unmerged_disease_48091	indication - indication	merged_19908_drug
+unmerged_disease_41381	indication - indication	merged_19908_drug
+unmerged_disease_52622	indication - indication	merged_19912_drug
+unmerged_disease_41338	indication - indication	merged_19912_drug
+unmerged_disease_47199	indication - indication	merged_19912_drug
+unmerged_disease_45920	indication - indication	merged_19915_drug
+unmerged_disease_40808	indication - indication	merged_19919_drug
+unmerged_disease_52556	indication - indication	merged_19921_drug
+unmerged_disease_48089	indication - indication	merged_19924_drug
+unmerged_disease_48384	indication - indication	merged_19925_drug
+unmerged_disease_58443	treats	merged_19925_drug
+unmerged_disease_40941	indication - indication	merged_19933_drug
+unmerged_disease_41509	indication - indication	merged_19934_drug
+unmerged_disease_58424	treats	merged_19937_drug
+unmerged_disease_41243	indication - indication	merged_19940_drug
+unmerged_disease_48091	indication - indication	merged_19944_drug
+unmerged_disease_58398	treats	merged_19944_drug
+unmerged_disease_48091	indication - indication	merged_19953_drug
+unmerged_disease_49441	indication - indication	merged_19960_drug
+unmerged_disease_52380	indication - indication	merged_19961_drug
+unmerged_disease_48164	indication - indication	merged_19965_drug
+unmerged_disease_50244	indication - indication	merged_19971_drug
+unmerged_disease_48329	indication - indication	merged_19971_drug
+unmerged_disease_50450	indication - indication	merged_19975_drug
+unmerged_disease_40808	indication - indication	merged_19980_drug
+unmerged_disease_52533	indication - indication	merged_19990_drug
+unmerged_disease_52535	indication - indication	merged_19990_drug
+unmerged_disease_52188	indication - indication	merged_19990_drug
+unmerged_disease_52538	indication - indication	merged_19990_drug
+unmerged_disease_58408	treats	merged_19990_drug
+unmerged_disease_52566	indication - indication	merged_19991_drug
+unmerged_disease_52571	indication - indication	merged_19991_drug
+unmerged_disease_48116	indication - indication	merged_19993_drug
+unmerged_disease_50244	indication - indication	merged_19995_drug
+unmerged_disease_47432	indication - indication	merged_19996_drug
+unmerged_disease_40996	indication - indication	merged_20000_drug
+unmerged_disease_41458	indication - indication	merged_20001_drug
+unmerged_disease_48206	indication - indication	merged_20001_drug
+unmerged_disease_47502	indication - indication	merged_20001_drug
+unmerged_disease_51808	indication - indication	merged_20004_drug
+unmerged_disease_49506	indication - indication	merged_20005_drug
+unmerged_disease_48861	indication - indication	merged_20008_drug
+unmerged_disease_45533	indication - indication	merged_20011_drug
+unmerged_disease_50448	indication - indication	merged_20014_drug
+unmerged_disease_58495	treats	merged_20036_drug
+unmerged_disease_43430	indication - indication	merged_20037_drug
+unmerged_disease_52589	indication - indication	merged_20037_drug
+unmerged_disease_58456	treats	merged_20037_drug
+unmerged_disease_52634	indication - indication	merged_20053_drug
+unmerged_disease_48091	indication - indication	merged_20055_drug
+unmerged_disease_58398	treats	merged_20055_drug
+unmerged_disease_50095	indication - indication	merged_20056_drug
+unmerged_disease_52535	indication - indication	merged_20056_drug
+unmerged_disease_47670	indication - indication	merged_20060_drug
+unmerged_disease_47745	indication - indication	merged_20060_drug
+unmerged_disease_44530	indication - indication	merged_20061_drug
+unmerged_disease_48705	indication - indication	merged_20065_drug
+unmerged_disease_47321	indication - indication	merged_20066_drug
+unmerged_disease_50467	indication - indication	merged_20076_drug
+unmerged_disease_52607	indication - indication	merged_20077_drug
+unmerged_disease_48936	indication - indication	merged_20077_drug
+unmerged_disease_41243	indication - indication	merged_20077_drug
+unmerged_disease_48849	indication - indication	merged_20090_drug
+unmerged_disease_52543	indication - indication	merged_20114_drug
+unmerged_disease_52194	indication - indication	merged_20128_drug
+unmerged_disease_43294	indication - indication	merged_20130_drug
+unmerged_disease_50432	indication - indication	merged_20141_drug
+unmerged_disease_52488	indication - indication	merged_20151_drug
+unmerged_disease_48110	indication - indication	merged_20166_drug
+unmerged_disease_48764	indication - indication	merged_20175_drug
+unmerged_disease_58409	treats	merged_20175_drug
+unmerged_disease_58391	treats	merged_20190_drug
+unmerged_disease_48089	indication - indication	merged_20192_drug
+unmerged_disease_48901	indication - indication	merged_20194_drug
+unmerged_disease_41281	indication - indication	merged_20194_drug
+unmerged_disease_45790	indication - indication	merged_20195_drug
+unmerged_disease_49364	indication - indication	merged_20195_drug
+unmerged_disease_48179	indication - indication	merged_20202_drug
+unmerged_disease_52355	indication - indication	merged_20202_drug
+unmerged_disease_41238	indication - indication	merged_20207_drug
+unmerged_disease_50448	indication - indication	merged_20208_drug
+unmerged_disease_43988	indication - indication	merged_20209_drug
+unmerged_disease_48103	indication - indication	merged_20221_drug
+unmerged_disease_47526	indication - indication	merged_20223_drug
+unmerged_disease_47773	indication - indication	merged_20223_drug
+unmerged_disease_58476	treats	merged_20226_drug
+unmerged_disease_48783	indication - indication	merged_20228_drug
+unmerged_disease_52543	indication - indication	merged_20230_drug
+unmerged_disease_41461	indication - indication	merged_20231_drug
+unmerged_disease_52194	indication - indication	merged_20231_drug
+unmerged_disease_48103	indication - indication	merged_20263_drug
+unmerged_disease_52543	indication - indication	merged_20275_drug
+unmerged_disease_48823	indication - indication	merged_20280_drug
+unmerged_disease_48179	indication - indication	merged_20288_drug
+unmerged_disease_50428	indication - indication	merged_20293_drug
+unmerged_disease_58424	treats	merged_20307_drug
+unmerged_disease_52194	indication - indication	merged_20312_drug
+unmerged_disease_52607	indication - indication	merged_20312_drug
+unmerged_disease_48823	indication - indication	merged_20312_drug
+unmerged_disease_58518	treats	merged_20319_drug
+unmerged_disease_48179	indication - indication	merged_20322_drug
+unmerged_disease_52500	indication - indication	merged_20322_drug
+unmerged_disease_41381	indication - indication	merged_20350_drug
+unmerged_disease_49145	indication - indication	merged_20359_drug
+unmerged_disease_58398	treats	merged_20363_drug
+unmerged_disease_40808	indication - indication	merged_20369_drug
+unmerged_disease_48764	indication - indication	merged_20370_drug
+unmerged_disease_58409	treats	merged_20370_drug
+unmerged_disease_48879	indication - indication	merged_20371_drug
+unmerged_disease_48496	indication - indication	merged_20371_drug
+unmerged_disease_52380	indication - indication	merged_20371_drug
+unmerged_disease_45804	indication - indication	merged_20372_drug
+unmerged_disease_48641	indication - indication	merged_20372_drug
+unmerged_disease_52194	indication - indication	merged_20373_drug
+unmerged_disease_52607	indication - indication	merged_20376_drug
+unmerged_disease_48408	indication - indication	merged_20392_drug
+unmerged_disease_52665	indication - indication	merged_20411_drug
+unmerged_disease_41497	indication - indication	merged_20411_drug
+unmerged_disease_49145	indication - indication	merged_20416_drug
+unmerged_disease_58404	treats	merged_20421_drug
+unmerged_disease_41461	indication - indication	merged_20423_drug
+unmerged_disease_41546	indication - indication	merged_20423_drug
+unmerged_disease_41546	indication - indication	merged_20424_drug
+unmerged_disease_48823	indication - indication	merged_20427_drug
+unmerged_disease_52622	indication - indication	merged_20427_drug
+unmerged_disease_48823	indication - indication	merged_20428_drug
+unmerged_disease_41461	indication - indication	merged_20429_drug
+unmerged_disease_52607	indication - indication	merged_20438_drug
+unmerged_disease_48091	indication - indication	merged_20455_drug
+unmerged_disease_58398	treats	merged_20455_drug
+unmerged_disease_50244	indication - indication	merged_20467_drug
+unmerged_disease_50695	indication - indication	merged_20472_drug
+unmerged_disease_52486	indication - indication	merged_20475_drug
+unmerged_disease_52546	indication - indication	merged_20477_drug
+unmerged_disease_48642	indication - indication	merged_20478_drug
+unmerged_disease_47623	indication - indication	merged_20483_drug
+unmerged_disease_58496	treats	merged_20483_drug
+unmerged_disease_41321	indication - indication	merged_20493_drug
+unmerged_disease_48151	indication - indication	merged_20500_drug
+unmerged_disease_47985	indication - indication	merged_20500_drug
+unmerged_disease_45819	indication - indication	merged_20508_drug
+unmerged_disease_52495	indication - indication	merged_20511_drug
+unmerged_disease_46651	indication - indication	merged_20517_drug
+unmerged_disease_43294	indication - indication	merged_20520_drug
+unmerged_disease_40559	indication - indication	merged_20521_drug
+unmerged_disease_58411	treats	merged_20522_drug
+unmerged_disease_41386	indication - indication	merged_20527_drug
+unmerged_disease_45224	indication - indication	merged_20529_drug
+unmerged_disease_50219	indication - indication	merged_20537_drug
+unmerged_disease_41243	indication - indication	merged_20537_drug
+unmerged_disease_52280	indication - indication	merged_20542_drug
+unmerged_disease_41461	indication - indication	merged_20545_drug
+unmerged_disease_52509	indication - indication	merged_20545_drug
+unmerged_disease_41546	indication - indication	merged_20545_drug
+unmerged_disease_47321	indication - indication	merged_20551_drug
+unmerged_disease_47050	indication - indication	merged_20551_drug
+unmerged_disease_50368	indication - indication	merged_20576_drug
+unmerged_disease_58393	treats	merged_20582_drug
+unmerged_disease_58422	treats	merged_20582_drug
+unmerged_disease_48181	indication - indication	merged_20584_drug
+unmerged_disease_52634	indication - indication	merged_20587_drug
+unmerged_disease_48936	indication - indication	merged_20587_drug
+unmerged_disease_49835	indication - indication	merged_20595_drug
+unmerged_disease_52188	indication - indication	merged_20595_drug
+unmerged_disease_41243	indication - indication	merged_20603_drug
+unmerged_disease_48329	indication - indication	merged_20603_drug
+unmerged_disease_50450	indication - indication	merged_20607_drug
+unmerged_disease_50219	indication - indication	merged_20608_drug
+unmerged_disease_48206	indication - indication	merged_20627_drug
+unmerged_disease_46477	indication - indication	merged_20627_drug
+unmerged_disease_41323	indication - indication	merged_20627_drug
+unmerged_disease_41385	indication - indication	merged_20627_drug
+unmerged_disease_49145	indication - indication	merged_20630_drug
+unmerged_disease_52546	indication - indication	merged_20630_drug
+unmerged_disease_50720	indication - indication	merged_20630_drug
+unmerged_disease_50450	indication - indication	merged_20634_drug
+unmerged_disease_41286	indication - indication	merged_20636_drug
+unmerged_disease_49041	indication - indication	merged_20653_drug
+unmerged_disease_48936	indication - indication	merged_20658_drug
+unmerged_disease_51842	indication - indication	merged_20667_drug
+unmerged_disease_50219	indication - indication	merged_20667_drug
+unmerged_disease_41243	indication - indication	merged_20667_drug
+unmerged_disease_49487	indication - indication	merged_20674_drug
+unmerged_disease_52535	indication - indication	merged_20674_drug
+unmerged_disease_48861	indication - indication	merged_20675_drug
+unmerged_disease_50434	indication - indication	merged_20675_drug
+unmerged_disease_41409	indication - indication	merged_20680_drug
+unmerged_disease_40889	indication - indication	merged_20692_drug
+unmerged_disease_43988	indication - indication	unmerged_drug_11044
+unmerged_disease_48579	indication - indication	unmerged_drug_11044
+unmerged_disease_47309	indication - indication	unmerged_drug_11044
+unmerged_disease_44781	indication - indication	unmerged_drug_11044
+unmerged_disease_49616	indication - indication	unmerged_drug_11044
+unmerged_disease_41264	indication - indication	unmerged_drug_11044
+unmerged_disease_49287	indication - indication	unmerged_drug_11052
+unmerged_disease_48091	indication - indication	unmerged_drug_11162
+unmerged_disease_47851	indication - indication	unmerged_drug_11188
+unmerged_disease_44865	indication - indication	unmerged_drug_11193
+unmerged_disease_48089	indication - indication	unmerged_drug_11196
+unmerged_disease_52575	indication - indication	unmerged_drug_11202
+unmerged_disease_52567	indication - indication	unmerged_drug_11204
+unmerged_disease_47824	indication - indication	unmerged_drug_11208
+unmerged_disease_50467	indication - indication	unmerged_drug_11225
+unmerged_disease_49616	indication - indication	unmerged_drug_11230
+unmerged_disease_52310	indication - indication	unmerged_drug_11253
+unmerged_disease_49616	indication - indication	unmerged_drug_11253
+unmerged_disease_41240	indication - indication	unmerged_drug_11273
+unmerged_disease_50679	indication - indication	unmerged_drug_11287
+unmerged_disease_48206	indication - indication	unmerged_drug_11287
+unmerged_disease_40701	indication - indication	unmerged_drug_11294
+unmerged_disease_41319	indication - indication	unmerged_drug_11294
+unmerged_disease_40505	indication - indication	unmerged_drug_11303
+unmerged_disease_52495	indication - indication	unmerged_drug_11305
+unmerged_disease_47851	indication - indication	unmerged_drug_11315
+unmerged_disease_40803	indication - indication	unmerged_drug_11327
+unmerged_disease_52569	indication - indication	unmerged_drug_11327
+unmerged_disease_51727	indication - indication	unmerged_drug_11327
+unmerged_disease_48941	indication - indication	unmerged_drug_11333
+unmerged_disease_48181	indication - indication	unmerged_drug_11351
+unmerged_disease_50368	indication - indication	unmerged_drug_11362
+unmerged_disease_48823	indication - indication	unmerged_drug_11377
+unmerged_disease_40808	indication - indication	unmerged_drug_11435
+unmerged_disease_52194	indication - indication	unmerged_drug_11451
+unmerged_disease_52622	indication - indication	unmerged_drug_11451
+unmerged_disease_52556	indication - indication	unmerged_drug_11471
+unmerged_disease_46130	indication - indication	unmerged_drug_11472
+unmerged_disease_50095	indication - indication	unmerged_drug_11472
+unmerged_disease_52200	indication - indication	unmerged_drug_11472
+unmerged_disease_49767	indication - indication	unmerged_drug_11472
+unmerged_disease_52188	indication - indication	unmerged_drug_11472
+unmerged_disease_50407	indication - indication	unmerged_drug_11474
+unmerged_disease_50407	indication - indication	unmerged_drug_11476
+unmerged_disease_50407	indication - indication	unmerged_drug_11478
+unmerged_disease_46651	indication - indication	unmerged_drug_11488
+unmerged_disease_49231	indication - indication	unmerged_drug_11493
+unmerged_disease_50434	indication - indication	unmerged_drug_11500
+unmerged_disease_51327	indication - indication	unmerged_drug_11500
+unmerged_disease_48127	indication - indication	unmerged_drug_11523
+unmerged_disease_41509	indication - indication	unmerged_drug_11545
+unmerged_disease_50407	indication - indication	unmerged_drug_11547
+unmerged_disease_52509	indication - indication	unmerged_drug_11553
+unmerged_disease_47670	indication - indication	unmerged_drug_11554
+unmerged_disease_48488	indication - indication	unmerged_drug_11555
+unmerged_disease_52565	indication - indication	unmerged_drug_11575
+unmerged_disease_52570	indication - indication	unmerged_drug_11575
+unmerged_disease_43513	indication - indication	unmerged_drug_11597
+unmerged_disease_44020	indication - indication	unmerged_drug_11598
+unmerged_disease_50387	indication - indication	unmerged_drug_11624
+unmerged_disease_52355	indication - indication	unmerged_drug_11656
+unmerged_disease_40803	indication - indication	unmerged_drug_11669
+unmerged_disease_52565	indication - indication	unmerged_drug_11669
+unmerged_disease_52571	indication - indication	unmerged_drug_11669
+unmerged_disease_52572	indication - indication	unmerged_drug_11669
+unmerged_disease_40945	indication - indication	unmerged_drug_11669
+unmerged_disease_45506	indication - indication	unmerged_drug_11705
+unmerged_disease_41295	indication - indication	unmerged_drug_11713
+unmerged_disease_47221	indication - indication	unmerged_drug_11713
+unmerged_disease_48091	indication - indication	unmerged_drug_11717
+unmerged_disease_48861	indication - indication	unmerged_drug_11719
+unmerged_disease_51808	indication - indication	unmerged_drug_11719
+unmerged_disease_41461	indication - indication	unmerged_drug_11722
+unmerged_disease_47203	indication - indication	unmerged_drug_11734
+unmerged_disease_48966	indication - indication	unmerged_drug_11744
+unmerged_disease_49849	indication - indication	unmerged_drug_11744
+unmerged_disease_48091	indication - indication	unmerged_drug_11754
+unmerged_disease_41461	indication - indication	unmerged_drug_11782
+unmerged_disease_50243	indication - indication	unmerged_drug_11801
+unmerged_disease_48191	indication - indication	unmerged_drug_11805
+unmerged_disease_48206	indication - indication	unmerged_drug_11818
+unmerged_disease_52950	indication - indication	unmerged_drug_11852
+unmerged_disease_52565	indication - indication	unmerged_drug_11861
+unmerged_disease_52570	indication - indication	unmerged_drug_11861
+unmerged_disease_44091	indication - indication	unmerged_drug_11872
+unmerged_disease_49586	indication - indication	unmerged_drug_11885
+unmerged_disease_40600	indication - indication	unmerged_drug_11896
+unmerged_disease_47526	indication - indication	unmerged_drug_11905
+unmerged_disease_48783	indication - indication	unmerged_drug_11918
+unmerged_disease_40509	indication - indication	unmerged_drug_11936
+unmerged_disease_40583	indication - indication	unmerged_drug_11953
+unmerged_disease_40505	indication - indication	unmerged_drug_12021
+unmerged_disease_48712	indication - indication	unmerged_drug_12212
+unmerged_disease_44451	indication - indication	unmerged_drug_12289
+unmerged_disease_50379	indication - indication	unmerged_drug_12429
+unmerged_disease_52568	indication - indication	unmerged_drug_12429
+unmerged_disease_49389	indication - indication	unmerged_drug_12440
+unmerged_disease_48531	indication - indication	unmerged_drug_12440
+unmerged_disease_47191	indication - indication	unmerged_drug_12440
+unmerged_disease_46818	indication - indication	unmerged_drug_12440
+unmerged_disease_52540	indication - indication	unmerged_drug_12497
+unmerged_disease_48202	indication - indication	unmerged_drug_12573
+unmerged_disease_52546	indication - indication	unmerged_drug_12611
+unmerged_disease_48861	indication - indication	unmerged_drug_12715
+unmerged_disease_50368	indication - indication	unmerged_drug_13058
+unmerged_disease_40808	indication - indication	unmerged_drug_13071
+unmerged_disease_52489	indication - indication	unmerged_drug_13189
+unmerged_disease_52566	indication - indication	unmerged_drug_13308
+unmerged_disease_48179	indication - indication	unmerged_drug_13322
+unmerged_disease_43988	indication - indication	unmerged_drug_13343
+unmerged_disease_41394	indication - indication	unmerged_drug_13344
+unmerged_disease_48384	indication - indication	unmerged_drug_13616
+unmerged_disease_40676	indication - indication	unmerged_drug_13668
+unmerged_disease_43294	indication - indication	unmerged_drug_13671
+unmerged_disease_48089	indication - indication	unmerged_drug_13671
+unmerged_disease_43294	indication - indication	unmerged_drug_13673
+unmerged_disease_48384	indication - indication	unmerged_drug_13880
+unmerged_disease_52310	indication - indication	unmerged_drug_13942
+unmerged_disease_48949	indication - indication	unmerged_drug_14911
+unmerged_disease_41203	indication - indication	unmerged_drug_15190
+unmerged_disease_48191	indication - indication	unmerged_drug_15289
+unmerged_disease_48488	indication - indication	unmerged_drug_15289
+unmerged_disease_40963	indication - indication	unmerged_drug_15290
+unmerged_disease_42880	indication - indication	unmerged_drug_15296
+unmerged_disease_45224	indication - indication	unmerged_drug_15326
+unmerged_disease_41461	indication - indication	unmerged_drug_15383
+unmerged_disease_50368	indication - indication	unmerged_drug_15815
+unmerged_disease_45224	indication - indication	unmerged_drug_15821
+unmerged_disease_50432	indication - indication	unmerged_drug_15838
+unmerged_disease_47973	indication - indication	unmerged_drug_15856
+unmerged_disease_46761	indication - indication	unmerged_drug_15858
+unmerged_disease_48182	indication - indication	unmerged_drug_15865
+unmerged_disease_52194	indication - indication	unmerged_drug_15868
+unmerged_disease_41385	indication - indication	unmerged_drug_15889
+unmerged_disease_45123	indication - indication	unmerged_drug_15901
+unmerged_disease_41546	indication - indication	unmerged_drug_15921
+unmerged_disease_52622	indication - indication	unmerged_drug_15921
+unmerged_disease_41381	indication - indication	unmerged_drug_15923
+unmerged_disease_40767	indication - indication	unmerged_drug_15926
+unmerged_disease_44451	indication - indication	unmerged_drug_15933
+unmerged_disease_48162	indication - indication	unmerged_drug_15933
+unmerged_disease_52194	indication - indication	unmerged_drug_15942
+unmerged_disease_43643	indication - indication	unmerged_drug_15943
+unmerged_disease_48202	indication - indication	unmerged_drug_15950
+unmerged_disease_48202	indication - indication	unmerged_drug_15951
+unmerged_disease_46651	indication - indication	unmerged_drug_15969
+unmerged_disease_50434	indication - indication	unmerged_drug_15978
+unmerged_disease_50368	indication - indication	unmerged_drug_15983
+unmerged_disease_52479	indication - indication	unmerged_drug_15985
+unmerged_disease_50368	indication - indication	unmerged_drug_15987
+unmerged_disease_50219	indication - indication	unmerged_drug_15995
+unmerged_disease_52645	indication - indication	unmerged_drug_15996
+unmerged_disease_48162	indication - indication	unmerged_drug_15997
+unmerged_disease_41385	indication - indication	unmerged_drug_15999
+unmerged_disease_48783	indication - indication	unmerged_drug_16001
+unmerged_disease_40945	indication - indication	unmerged_drug_16020
+unmerged_disease_41319	indication - indication	unmerged_drug_16020
+unmerged_disease_48936	indication - indication	unmerged_drug_16020
+unmerged_disease_52355	indication - indication	unmerged_drug_16027
+unmerged_disease_52453	indication - indication	unmerged_drug_16038
+unmerged_disease_49041	indication - indication	unmerged_drug_16045
+unmerged_disease_41038	indication - indication	unmerged_drug_16061
+unmerged_disease_51301	indication - indication	unmerged_drug_16064
+unmerged_disease_50432	indication - indication	unmerged_drug_16065
+unmerged_disease_52533	indication - indication	unmerged_drug_16068
+unmerged_disease_52535	indication - indication	unmerged_drug_16068
+unmerged_disease_40939	indication - indication	unmerged_drug_16069
+unmerged_disease_50428	indication - indication	unmerged_drug_16069
+unmerged_disease_43294	indication - indication	unmerged_drug_16079
+unmerged_disease_40941	indication - indication	unmerged_drug_16081
+unmerged_disease_45577	indication - indication	unmerged_drug_16088
+unmerged_disease_44020	indication - indication	unmerged_drug_16088
+unmerged_disease_52081	indication - indication	unmerged_drug_16089
+unmerged_disease_40671	indication - indication	unmerged_drug_16090
+unmerged_disease_52194	indication - indication	unmerged_drug_16104
+unmerged_disease_48655	indication - indication	unmerged_drug_16108
+unmerged_disease_52129	indication - indication	unmerged_drug_16113
+unmerged_disease_41319	indication - indication	unmerged_drug_16123
+unmerged_disease_46761	indication - indication	unmerged_drug_16131
+unmerged_disease_52543	indication - indication	unmerged_drug_16136
+unmerged_disease_40880	indication - indication	unmerged_drug_16140
+unmerged_disease_41381	indication - indication	unmerged_drug_16146
+unmerged_disease_43406	indication - indication	unmerged_drug_16176
+unmerged_disease_47191	indication - indication	unmerged_drug_16176
+unmerged_disease_40467	indication - indication	unmerged_drug_16177
+unmerged_disease_41337	indication - indication	unmerged_drug_16185
+merged_20948_effect/phenotype	treats	unmerged_disease_58704
+unmerged_BiologicalProcess_285866	prevents	merged_22474_biological_process

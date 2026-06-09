@@ -1,0 +1,15 @@
+unmerged_disease_46362	indication	merged_19872_drug
+unmerged_disease_46106	indication	merged_19872_drug
+unmerged_disease_46970	indication	merged_19872_drug
+unmerged_disease_47497	indication	merged_19872_drug
+unmerged_disease_49075	indication	merged_19872_drug
+unmerged_disease_44926	contra indication	merged_20166_drug
+unmerged_disease_45057	contra indication	merged_20166_drug
+unmerged_disease_44964	contra indication	merged_20166_drug
+unmerged_disease_40895	contra indication	merged_20166_drug
+unmerged_disease_49395	contra indication	merged_20166_drug
+unmerged_disease_49597	off-label use	merged_19785_drug
+unmerged_disease_45283	off-label use	merged_19786_drug
+unmerged_disease_39107	off-label use	merged_19786_drug
+unmerged_disease_46219	off-label use	merged_19786_drug
+unmerged_disease_47830	off-label use	merged_19786_drug

@@ -1,0 +1,16 @@
+unmerged_disease_48699	off-label use - off-label use	merged_19231_drug
+unmerged_disease_49265	off-label use - off-label use	merged_19250_drug
+unmerged_disease_48747	off-label use - off-label use	merged_19410_drug
+unmerged_disease_47275	off-label use - off-label use	merged_19525_drug
+unmerged_disease_44567	off-label use - off-label use	merged_19560_drug
+unmerged_disease_49127	off-label use - off-label use	merged_19597_drug
+unmerged_disease_49519	off-label use - off-label use	merged_19627_drug
+unmerged_disease_48747	off-label use - off-label use	merged_19732_drug
+unmerged_disease_48360	off-label use - off-label use	merged_19912_drug
+unmerged_disease_50732	off-label use - off-label use	merged_20001_drug
+unmerged_disease_48360	off-label use - off-label use	merged_20001_drug
+unmerged_disease_40529	off-label use - off-label use	merged_20041_drug
+unmerged_disease_48082	off-label use - off-label use	merged_20527_drug
+unmerged_disease_47275	off-label use - off-label use	merged_20544_drug
+unmerged_disease_50732	off-label use - off-label use	unmerged_drug_12283
+unmerged_disease_51091	off-label use - off-label use	unmerged_drug_15991
